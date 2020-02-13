@@ -1,3 +1,4 @@
-#Ignore data and results/
+#Ignore data and results/ except a.dat
 *.dat
 results
+!a.dat
